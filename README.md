@@ -1,19 +1,17 @@
-# Starter Code: Constellations Client
+# Constellations 
 
-This server is intended to be run for some checkpoints in the Thinkful curriculum. If you have trouble getting the server to run, reach out to your mentor.
-
-## Installation Instructions
-
-1. Fork this repository by clicking the Fork button at the top right of the page
-2. Clone this repository.
-3. `cd` into the newly created directory.
-4. Run `npm install`.
-5. Run `npm start`.
-
-Running `npm start` will spin up a server on port 3000 that will run the React application.
+## Table of Contents
+* [Description](#description)
+* [Questions](#questions)
 
 ## Description
+The goal of this project was to connect an API to a React application. My role for this project was primarily QA tester and DevOps.
 
-The Constellations Client provides a simple front-end for a RESTful Constellations Server.
+![deployed](https://gyazo.com/6d42b011ad574fb48d101cd838707406.png)
 
-![Application preview](./app-preview.png)
+To view this project click [here](https://vercel.com/lindseyintech/starter-constellations-client/)
+
+This project uses React and Vercel.
+
+## Questions
+Questions? Reach out at [github.com/lindseyindev](github.com/lindseyindev)
